@@ -5,28 +5,13 @@
     "text": "Welcome!"
   },
   {
-    "id": "SJ2TNC72w",
-    "from": "alice",
-    "text": "hi all"
-  },
-  {
-    "id": "rkHdDkE3D",
+    "id": "rywnRZVhv",
     "from": "alice",
     "text": "test"
   },
   {
-    "id": "SJvLukEhv",
-    "from": "bob",
-    "text": "i'm bob"
-  },
-  {
-    "id": "BkRhtkN2D",
+    "id": "ry99Xz43w",
     "from": "alice",
-    "text": "hello"
-  },
-  {
-    "id": "Sk6fC1Vnw",
-    "from": "bob",
     "text": "hello"
   }
 ]
